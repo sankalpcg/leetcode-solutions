@@ -6,5 +6,4 @@ class Solution:
                 return True
             else:
                 checkSet.add(i)
-        else:
-            return False
+        return False
